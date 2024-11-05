@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obaduihu.github.io/EIH/sitemap_index.txt
+Sitemap: https://obaduihu.github.io/IJa/sitemap_index.txt
+Sitemap: https://obaduihu.github.io/TwE/sitemap_index.txt
+Sitemap: https://obaduihu.github.io/eLG/sitemap_index.txt
